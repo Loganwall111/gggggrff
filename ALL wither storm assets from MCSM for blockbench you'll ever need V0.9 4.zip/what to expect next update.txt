@@ -1,0 +1,26 @@
+                                          --------------what to expect on V0.9.1--------------
+
+                                                --------------vanilla meshes--------------
+
+repeating textures plugin will not be rquired.
+more polished UV's.
+better texturing.
+Textured Stage_A wither.
+POSSIBLY better witherstorm_interior UV's
+
+                                           --------------traced shading textures-------------- 
+fixing inaccurate UV position
+POSSIBLY 1:1 UV'S
+Stage_D_small post credit textures.
+Stage_D_massive distant.
+stage_D_massive soren courtyard
+stage_B boomtown
+stage_B wilderness tile
+stage_C_massive distant
+dynamic eyes for some stages
+POSSIBLY Netflix (wont be fully 1:1 and im not gonna do the shit-brown underglow.)
+POSSIBLY textured debris
+stage_D_small and post credit severeds
+stage_D_massive severeds
+stage_D_distant severeds
+all stages different head angles (in mcsm depending on the head angle the shading on it changes)

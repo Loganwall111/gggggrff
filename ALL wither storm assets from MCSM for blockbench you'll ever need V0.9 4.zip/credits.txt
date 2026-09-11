@@ -1,0 +1,15 @@
+Credits:
+
+* All meshes and textures included in this pack were created by Telltale Games and Mojang. The traced glow/shading textures were traced by me. I've only converted the models and textures to be compatible with Blockbench or other 3D programs. Crediting me when using the traced textures is optional.
+
+**Tools Used for Extraction and Conversion:**
+
+* Telltale Explorer: Used to extract meshes and textures.
+  Download here: https://quickandeasysoftware.net/software/telltale-explorer
+
+* Telltale Inspector: Used to convert meshes.
+  Download here: https://github.com/LucasSaragosa/TelltaleInspector
+
+* Freecam Mod for MCSM by Arizzble: Used to capture screenshots of the WitherStorm's lightning texture.
+  you can get the freecam mod here: https://discord.gg/paCYAnvNcb
+
